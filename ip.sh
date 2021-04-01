@@ -2,7 +2,7 @@
 
 echo 
 
-cd github/functions/find_ip
-python3 ip.py
+cd github/functions
+python3 find_ip.py
 
 echo
